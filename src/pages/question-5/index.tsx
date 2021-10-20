@@ -3,7 +3,13 @@ import { NextPage } from 'next'
 import Client from '@models/client'
 import Head from 'next/head'
 import Image from 'next/image'
-import { FlexWrapContainer, Card, AccountsList, Item, ItemText } from './styles'
+import {
+  FlexWrapContainer,
+  Card,
+  AccountsList,
+  Item,
+  ItemText
+} from '@components/05/styles'
 import PageContainer from '@components/PageContainer'
 import FormCard from '@components/01/FormCard'
 import TextField from '@components/01/TextField'

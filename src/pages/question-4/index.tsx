@@ -1,7 +1,13 @@
 import { useState } from 'react'
 import { NextPage } from 'next'
 import Head from 'next/head'
-import { ColumnContainer, Divider, ItemList, Item, ItemText } from './styles'
+import {
+  ColumnContainer,
+  Divider,
+  ItemList,
+  Item,
+  ItemText
+} from '@components/04/styles'
 import PageContainer from '@components/PageContainer'
 import TextField from '@components/02/TextField'
 import Utterance from '@components/Utterance'

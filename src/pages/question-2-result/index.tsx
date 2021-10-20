@@ -1,6 +1,6 @@
 import { NextPage, NextPageContext } from 'next'
 import Head from 'next/head'
-import { KeywordsList, Label, Checkbox } from './styles'
+import { KeywordsList, Label, Checkbox } from '@components/02-result/styles'
 import PageContainer from '@components/PageContainer'
 
 interface Question2ResultPageProps {
