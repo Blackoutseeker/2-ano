@@ -5,7 +5,9 @@ export enum PAGES {
   QUESTION_2 = '/question-2',
   QUESTION_3 = '/question-3',
   QUESTION_4 = '/question-4',
-  QUESTION_5 = '/question-5'
+  QUESTION_5 = '/question-5',
+  QUESTION_2_RESULT = '/question-2-result',
+  GITHUB_USER_PROFILE = 'https://github.com/Blackoutseeker'
 }
 
 export enum UTTERANCES {
